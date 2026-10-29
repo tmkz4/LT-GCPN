@@ -1,0 +1,5 @@
+checkpoints_grid/
+visualizations/
+__pycache__/
+.venv/
+.DS_Store
